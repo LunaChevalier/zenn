@@ -1,0 +1,12 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "zenn用リポジトリ",
+  "main": "index.js",
+  "repository": "https://github.com/LunaChevalier/zenn.git",
+  "author": "Luna Chevalier",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.21"
+  }
+}
