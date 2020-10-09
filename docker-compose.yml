@@ -1,0 +1,10 @@
+version: '3'
+services:
+  zenn:
+    image: ik11235/zenn-cli
+    volumes:
+      - ./articles:/articles
+      - ./books:/books
+    ports:
+      - "8000:8000"
+    command: ["./node_modules/.bin/zenn"]
