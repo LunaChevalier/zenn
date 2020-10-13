@@ -3,3 +3,7 @@ summary: "gitがよくわからない方が順番にステップアップする�
 topics: ["git"]
 published: false
 price: 0 # 有料の場合200〜5000
+chapters:
+  - introduction
+  - command-list
+  - useful-config
