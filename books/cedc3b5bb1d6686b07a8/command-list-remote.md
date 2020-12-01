@@ -25,3 +25,6 @@ title: "開発で必ず使うコマンドを叩く(リモート編)"
 * Email
 * Password
 
+# GitHub上にリモートリポジトリを作成する
+
+無事にGitHubアカウントが出来上がると、`https://github.com/<Username>`で、アカウントページが見られます
