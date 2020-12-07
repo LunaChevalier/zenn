@@ -1,10 +1,12 @@
-title: "初心者から上級者にステップアップするためのGit本"
-summary: "gitがよくわからない方が順番にステップアップする手順を書いてみました"
-topics: ["git"]
+title: 初心者から上級者にステップアップするためのGit本
+summary: gitがよくわからない方が順番にステップアップする手順を書いてみました
+topics:
+  - git
 published: false
-price: 0 # 有料の場合200〜5000
+price: 0
 chapters:
   - introduction
   - command-list-local
+  - creating-remote-repository
   - command-list-remote
   - useful-config
