@@ -6,7 +6,7 @@ topics: ["font"]
 published: true
 ---
 突然ですが、皆さんはどのフォントでコーディングしていますか?
-monaco、Monospace、MSゴシックなど、種類は多種多様です
+monaco、Monospace、MSゴシックなど、等幅フォントを軸に種類は多種多様です
 そんな中、それらを尻目に私が使っているフォントはIosevkaというフォントです
 
 # Iosevkaとは?
