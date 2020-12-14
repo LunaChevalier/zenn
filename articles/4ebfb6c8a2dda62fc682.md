@@ -112,31 +112,21 @@ npm run build -- contents::iosevka
 
 **2020/12/10追記**
 
-私がこのフォントを見つけた当時はなかったと思うのですが、手軽にカスタマイズできるページがありました
+以下のサイトで、ベース、文字、リガチャを画面上でデザインを確認しながら、ページの末尾に`private-build-plans.toml`と実行すべきコマンドが末尾に表示されます
 
 https://typeof.net/Iosevka/customizer
 
-ベース、文字、リガチャを画面上でデザインを確認しながら、ページの末尾に`private-build-plans.toml`と実行すべきコマンドが末尾に表示されます
-まだ、この方法で試したことがありませんが、試してみようとおもいます
-~~そして、自動で生成されたファイルやコマンドを見ると、書き方が間違っていたっぽい(それはエラーになるわwww)~~
+自分で好きな様に設定したら、`private-build-plans.sample.toml`と同じ階層に`private-build-plans.toml`を作成して、サイト上で自動的に作成されたコードをコピペします
+コマンドも自動的に生成されているので、そのコマンドを実行すれば、フォントが生成されます
+正常に終了したら、`[buildPlans.iosevka-custom]`の`family`に設定したフォント名のファイルができていると思います
 
-ここから、Iosevkaの本領発揮をする、フォントを自分好みにカスマイズします
-もちろん、GitHubにも以下のリンクから説明されています
-
-https://github.com/be5invis/Iosevka#customized-build
-
-ですが、自分の環境だと、↑の方法ではエラーになってできたなかったので、`private-build-plans.sample.toml`を直接編集します
+#### 詳細の設定について
 
 各設定項目と、設定できる値については、以下を参考にしてください
 
 https://github.com/be5invis/Iosevka#configuring-custom-build
 
-ここで編集しておくべき項目は`[buildPlans.iosevka-custom]`にある`family`です
-ここで設定した値が、インストールしたときのフォント名になるので、自分が作成したとわかる様な名前にしてください
-
-`private-build-plans.sample.toml`を好きなようにカスタマイズできたら、もう一度`npm run build -- contents::iosevka`を実行します
-正常に終了したら、`[buildPlans.iosevka-custom]`の`family`に設定したフォント名のファイルができていると思います
-
+前述の自動生成サイトでほぼできるはずなので、とても細かい設定をしない限り、見る必要はそんなにないと思っています
 # 最後に
 
 中国語、日本語は更紗ゴシックと言うフォントがあります
