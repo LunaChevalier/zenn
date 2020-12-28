@@ -9,4 +9,5 @@ chapters:
   - command-list-local
   - creating-remote-repository
   - command-list-remote
+  - missing-recover
   - useful-config
