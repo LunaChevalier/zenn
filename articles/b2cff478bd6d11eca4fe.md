@@ -3,7 +3,7 @@ title: "ゼロから教えるプログラミング教室 反省編"
 emoji: "👨‍🏫"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["ポエム"]
-published: false
+published: true
 ---
 
 ちょうど1ヶ月前から、情報や数学、プログラミングに関する知識等がほとんどない方に、プログラミングを教える事になりました
