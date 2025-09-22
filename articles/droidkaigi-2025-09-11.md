@@ -11,9 +11,8 @@ DroidKaigiに初現地参加しました
 メモを取って整理した箇所、知らなかったけれど理解できた箇所が中心なので、私がすでに知っていたり、頑張って理解しようとしたけれど難しかった箇所は飛ばしてます
 誤解してそうな箇所がもし見つけたら、優しくコメントしてもらえると幸いです・・・
 スライドは見つけたら掲載しています
-動画はテザリングで書いているので、帰宅してから掲載します
 
-# KotlinでのAI活用による開発
+# [KotlinでのAI活用による開発](https://youtu.be/uoy0p3vSdcg?si=S2PGyO7gf7Z7C0xc)
 
 ## AI支援コーディングがどう役立つのか
 
@@ -38,7 +37,7 @@ KoogというAIが紹介されてたので、使ってみます
 
 Koog使って難しいなーと思ったらYouTubeに動画あるので学習ハードル低め
 
-# 共有と分離 ─ Compose Multiplatform “本番導入” の設計指針
+# [共有と分離 ─ Compose Multiplatform “本番導入” の設計指針](https://youtu.be/Dp1g0RrxbIo?si=m_PfVhgMig2QhzY8)
 
 [スライド](https://speakerdeck.com/error96num/gong-you-tofen-li-compose-multiplatform-ben-fan-dao-ru-noshe-ji-zhi-zhen)
 
@@ -104,7 +103,7 @@ iosMainで実装する時、Kotlinで書くことになるが、何もせずと�
 
 iOSのネイティブ実装で、[cinterop](https://kotlinlang.org/docs/native-c-interop.html)が公式で紹介されているが、準備が大変だったり、iOSの開発環境がレガシーになってしまうので見送った
 
-# これでもう迷わない！Jetpack Composeの書き方実践ガイド
+# [これでもう迷わない！Jetpack Composeの書き方実践ガイド](https://youtu.be/SEHfHpseAtY?si=A54MHApj2V_3D19y)
 
 [スライド](https://speakerdeck.com/zozotech/jetpack-compose-practical-guide)
 
@@ -193,7 +192,7 @@ privateなComposable関数
     - IDEで直感的に気付ける
     - runtime-lint、slack compose-lintとかCompose周りのLintでおすすめ
 
-# プロパティベーステストによるUIテスト: LLMによるプロパティ定義生成でエッジケースを捉える
+# [プロパティベーステストによるUIテスト: LLMによるプロパティ定義生成でエッジケースを捉える](https://youtu.be/ur-w06-L6SU?si=Z6NLkIUl0U3ybeLR)
 
 ↓ってよくあるよね
 開発でシナリオテストOK、他のテストもOKでした
@@ -273,7 +272,7 @@ UIはステートやイベントがあり、これらを適切に処理されて
 - 考慮すべきプロパティを幅広く生成
 - どこで失敗するか、何故失敗するかを特定して、コードから根本原因を特定する
 
-# WebViewとはさようなら：KMP + Composeによるサーバー駆動UI
+# [WebViewとはさようなら：KMP + Composeによるサーバー駆動UI](https://youtu.be/JkOHAv4sXHo?si=AvmhXMu_llt1BmSs)
 
 WebViewとアプリを比較した時、以下のような感じになる
 
