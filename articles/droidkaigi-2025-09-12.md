@@ -3,7 +3,7 @@ title: "DroidKaigiに現地参加してきた(2日目)"
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["DroidKaigi"]
-published: false
+published: true
 ---
 
 DroidKaigiに初現地参加しました
