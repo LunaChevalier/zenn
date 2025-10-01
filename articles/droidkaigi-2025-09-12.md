@@ -3,6 +3,7 @@ title: "DroidKaigiに現地参加してきた(2日目)"
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["DroidKaigi"]
+publication_name: "karabiner_inc"
 published: true
 ---
 
